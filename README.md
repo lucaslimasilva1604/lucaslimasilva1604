@@ -15,4 +15,4 @@
   
   <a href = "mailto:lucaslimasilva1604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   
-  ![Snake animation](https://github.com/lucaslimasilva1604/lucaslimasilva1604/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucaslimasilva1604/blob/output/github-contribution-grid-snake.svg)
